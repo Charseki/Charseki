@@ -1,13 +1,13 @@
 
 
-<h2>👋 Hi there, I'm Charseki.Chen!<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<p><em>Security Development Engineer at <a href="https://www.dbappsecurity.com.cn/">DbappSecurity</a></em></p>
+<h2>👋 Hi there, I'm Charseki.Chen!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<p><em>Security Development Engineer at <a href="https://www.dbappsecurity.com.cn/" target="_blank">DbappSecurity</a></em></p>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ### 📝 Blogs
 
-Personal website and blog: https://www.charseki.com/
+<em>Personal website and blog: https://www.charseki.com/</em>
 
 ### 📫 Like to meet me?
 
